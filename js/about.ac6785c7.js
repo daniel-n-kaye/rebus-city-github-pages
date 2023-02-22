@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_rebus_city"]=self["webpackChunkvue_rebus_city"]||[]).push([[443],{4335:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var t=n(3396);const r={class:"about"},s=(0,t._)("h1",null,"This is an about page",-1),a=[s];function c(u,e){return(0,t.wg)(),(0,t.iD)("div",r,a)}var i=n(89);const o={},b=(0,i.Z)(o,[["render",c]]);var f=b}}]);
+//# sourceMappingURL=about.ac6785c7.js.map
